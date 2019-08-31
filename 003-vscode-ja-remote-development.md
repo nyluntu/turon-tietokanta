@@ -2,7 +2,11 @@
 
 Katso alla oleva video aiheesta. Videon jälkeen dokumenttiin on mahdollisesti lisätty muita huomioita.
 
-![vscode ja SSH yhteys](https://youtu.be/qddsfonjxmE)
+[Youtube: VS Code ja SSH etäyhteys](https://youtu.be/qddsfonjxmE)
+
+<hr>
+
+![Thumnbail](assets/images/003_vscode_remote_02.png)
 
 ## Muita huomioita
 
