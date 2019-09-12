@@ -16,15 +16,15 @@ Yllä oleva komento asentaa phpmyadmin paketin ja sen riippuvuudet. Asennus tarv
 
 Kun sinulta kysytään mitä palvelinta käytetään niin valitse `apache2`. Valinta tehdään painamalla **VÄLILYÖNTIÄ**. Nuolilla voit liikkua valintojen välillä. **TAB/SARKAIMELLA** voit valita OK ja painaa **ENTER**.
 
-![PHPMyAdmin](assets/images/002_kysymys-01.png)
+![PHPMyAdmin](../assets/images/002_kysymys-01.png)
 
 Vastaa `dbconfig-common` kysymyseen `YES`.
 
-![PHPMyAdmin](assets/images/002_kysymys-02.png)
+![PHPMyAdmin](../assets/images/002_kysymys-02.png)
 
 Lopuksi sinulta kysytään vielä salasana **phpmyadmin** nimiselle käyttäjälle. Muista ottaa salasana talteen varmuudenvuoksi, vaikka nyt et sitä tarvitse.
 
-![PHPMyAdmin](assets/images/002_kysymys-03.png)
+![PHPMyAdmin](../assets/images/002_kysymys-03.png)
 
 > `sudo phpenmod mbstring`
 
@@ -40,7 +40,7 @@ Seuraavaksi kokeile mennä selaimella osoitteeseen: `http://<virtuaalikoneen ip-
 
 Sinulle kuuluisi aueta kirjautumis-ikkuna PhpMyAdmin asennukseen. Et voi kirjautua vielä sisälle, joten jatkamme seuraavassa osassa.
 
-![PHPMyAdmin](assets/images/002_phpmyadmin_01.png)
+![PHPMyAdmin](../assets/images/002_phpmyadmin_01.png)
 
 ## Salli Mysql root käyttäjän kirjautuminen
 
@@ -72,4 +72,13 @@ Poistu komennolla:
 
 Seuraavaksi kokeile mennä selaimella osoitteeseen: `http://<virtuaalikoneen ip-osoite>/phpmyadmin` ja kirjaudu root tunnuksella sekä äsken antamallasi salasanalla.
 
-![PHPMyAdmin](assets/images/002_phpmyadmin_03.png)
+![PHPMyAdmin](../assets/images/002_phpmyadmin_03.png)
+
+# PHPMyAdmin päivittäminen
+
+Riippuen asennustavasta, PHPMyAdminista ei välttämättä asennu uusinta versiota. Voit päivittää version käsin seuraavin ohjein. 
+
+Päivittämättömässä versiossa voi tulla erilaisia virheviestejä ruudulle ja ne häiritsevät ohjelman käyttöä.
+
+https://tecadmin.net/manually-upgrade-phpmyadmin-ubuntu/
+

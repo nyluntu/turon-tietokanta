@@ -6,7 +6,7 @@ Katso alla oleva video aiheesta. Videon jälkeen dokumenttiin on mahdollisesti l
 
 <hr>
 
-![Thumnbail](assets/images/004_dbeaver_01.png)
+![Thumnbail](../assets/images/004_dbeaver_01.png)
 
 ## Muita huomioita
 
