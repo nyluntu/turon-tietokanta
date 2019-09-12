@@ -1,0 +1,5 @@
+[mysql]
+host_address=localhost
+database_name=exampledb
+db_user=root
+db_password=securepassword!
