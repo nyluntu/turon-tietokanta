@@ -10,7 +10,7 @@ Alkuperäisen ja mahdollisesti ajantasaisen tietokannan voit aina ladata sieltä
 
 ## Ensimmäinen tapa (mysql bash)
 
-> Suositeltu tapa, koska toimii varmimmin erilaisissa ympäristöissä.
+> Suositeltu tapa, koska toimii varmimmin erilaisissa ympäristöissä. Voit kokeilla, että mysql -pääteohjelma on asennettu antamalla komennon **mysql --version**
 
 Lataa ja purkaa ensin harjoitustietokanta yllämainitusta lähteestä. Vaihtoehtoisesti löydät samat tiedosto tämän repositoryn polusta: `docker-mysql/sakiladb/`
 
