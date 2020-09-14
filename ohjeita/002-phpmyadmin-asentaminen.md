@@ -4,6 +4,8 @@ Anna seuraavat komennot palvelimella ja PhpMyAdmin työkalu asentuu melko vaivat
 
 Seuraavien vaiheiden ohjeet perustuvat Digital Oceanin ohjeistukseen. Lue siis tarvittaessa lisää osoitteesta https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04
 
+Digital Ocean sisältää hyviä ohjeita, joten muista tarkistaa ohjeessa mainittu Ubuntu versio. Jos käytät uudempaa niin Ubuntu 20.04 ohje löytyy osoitteesta https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04
+
 **Vinkki!** PhpMyAdmin on palvelimelle asennettava PHP sovellus. Voit myös yhdistää muilla Mysql -tietokantaa tukevilla ohjelmilla ja hallita tietokantaa.
 
 ## PhpMyAdmin -asennus
